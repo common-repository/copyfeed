@@ -1,0 +1,7 @@
+- Twingly Suche hinzufügen
+- http://www.icerocket.com/
+- a) 123 zeichen (wie bisher aber anzahl der zeichen definierbar)
+   b) Text bis zum More-Tag
+   falls b) ausgewählt und kein more-tag gesetzt im beitrag dann wird automatisch a) genommen.
+- Im Fußbereich der Plugin Einstellungsseite steht Beusche statt Besuche
+- db-zugriffe raus

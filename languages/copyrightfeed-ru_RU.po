@@ -1,0 +1,484 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CopyrightFeed\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-04-12 13:42+0100\n"
+"PO-Revision-Date: 2010-03-15 19:16+0100\n"
+"Last-Translator: tolingo translations <nadin.grunenberg@tolingo.com>\n"
+"Language-Team: tolingo translations <support@tolingo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: D:\\WP-Plugins\\copyfeed\\trunk\\copyfeed\\\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: copyfeed.php:42
+msgid "Error in file: "
+msgstr "Ошибка в файле: "
+
+#: copyfeed.php:42
+msgid " on line: "
+msgstr "онлайн: "
+
+#: copyfeed.php:42
+msgid "<br />The WordPress file \"rss-functions.php\" or \"rss.php\" could not be included."
+msgstr "<br />Файл WordPress \"rss-functions.php\" или \"rss.php\" не может быть использован."
+
+#: copyfeed.php:152
+#: copyfeed.php:1223
+#: copyfeed.php:1270
+msgid "You do not have sufficient permissions to edit plugins for this blog."
+msgstr "У Вас нет достаточных прав для выполнения этого действия."
+
+#: copyfeed.php:163
+msgid "Domain is reachable."
+msgstr "Домен доступен."
+
+#: copyfeed.php:164
+msgid "Domain is <b>not</b> reachable."
+msgstr "Домен <b>недоступен</b>."
+
+#: copyfeed.php:224
+msgid "&copy;Feed"
+msgstr "&copy;Feed"
+
+#: copyfeed.php:226
+msgid "&copy;Feed MiniMenu"
+msgstr "&copy;Feed МиниМеню"
+
+#: copyfeed.php:228
+#: copyfeed.php:245
+msgid "Options &copy;Feed"
+msgstr "Настройки &copy;Feed"
+
+#: copyfeed.php:229
+#: copyfeed.php:311
+msgid "Options for comments in feed"
+msgstr "Настройки комментариев в фиде"
+
+#: copyfeed.php:230
+msgid "Options for related post in feed"
+msgstr "Настройки для похожих постов в фиде"
+
+#: copyfeed.php:232
+msgid "FullFeed"
+msgstr "FullFeed"
+
+#: copyfeed.php:234
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+#: copyfeed.php:235
+msgid "Search for a digital fingerprint"
+msgstr "Поиск цифрового персонального кода "
+
+#: copyfeed.php:236
+msgid "Further search options"
+msgstr "Расширенный поиск "
+
+#: copyfeed.php:237
+msgid "UPDATE &raquo;"
+msgstr "Обновить &raquo;"
+
+#: copyfeed.php:238
+msgid "Information on plugin/GUID"
+msgstr "Информация о плагин/GUID"
+
+#: copyfeed.php:239
+msgid "Uninstall"
+msgstr "Удаление"
+
+#: copyfeed.php:248
+#: copyfeed.php:544
+msgid "Start of copyright notice"
+msgstr "Начало уведомления об авторских правах "
+
+#: copyfeed.php:249
+msgid "Use HTML, use of PHP is not possible. You may use %author%, %authorlink%, %date%, %time%, %permalink% and %commentsnumber% as placeholders.<br />Example: &lt;a href=\"%permalink%#comments\" title=\"to the comments\"&gt;To the comments&lt;/a&gt;, Author: &lt;a href=\"%authorlink%\" &gt;%author%&lt;/a&gt;"
+msgstr "Используйте HTML, использование PHP невозможно. В качестве символа-заполнителя можно использовать %author%, %authorlink%, %date%, %time%, %permalink% и %permalink% .<br />Пример: &lt;a href=\"%permalink%#comments\" title=\"Комментарии\"&gt;Комментарии&lt;/a&gt;, Автор: &lt;a href=\"%authorlink%\" &gt;%author%&lt;/a&gt;"
+
+#: copyfeed.php:252
+#: copyfeed.php:544
+msgid "digital fingerprint"
+msgstr "цифровой персональный код"
+
+#: copyfeed.php:253
+msgid "Possible key:"
+msgstr "Возможный ключ:"
+
+#: copyfeed.php:256
+#: copyfeed.php:544
+msgid "End of copyright notice"
+msgstr "Конец уведомления об авторских правах "
+
+#: copyfeed.php:257
+msgid "Use HTML, use of PHP is not possible. You may use %author%, %authorlink%, %date%, %time%, %permalink%, and %commentsnumber% as placeholders.<br />Example: &lt;a href=\"%permalink%#comments\" title=\"to the comments\"&gt;To the comments&lt;/a&gt;, Author: &lt;a href=\"%authorlink%\" &gt;%author%&lt;/a&gt;"
+msgstr "Используйте HTML, использование PHP невозможно. В качестве символа-заполнителя можно использовать %author%, %authorlink%, %date%, %time%, %permalink% и %permalink% .<br />Пример: &lt;a href=\"%permalink%#comments\" title=\"Комментарии\"&gt; Комментарии &lt;/a&gt;, Автор: &lt;a href=\"%authorlink%\" &gt;%author%&lt;/a&gt;"
+
+#: copyfeed.php:260
+msgid "On Dashboard"
+msgstr "Информационная панель "
+
+#: copyfeed.php:261
+msgid "Show content theft in Dashboard?"
+msgstr "Показать похитителя содержания на информационной панели?"
+
+#: copyfeed.php:264
+msgid "Scan"
+msgstr "Поиск"
+
+#: copyfeed.php:265
+msgid "Scan for the digital fingerprint in order to find possible contenttheft?"
+msgstr "Поиск цифрового персонального кода для выявления возможных похитителей содержания?"
+
+#: copyfeed.php:268
+msgid "Scantime"
+msgstr "Время поиска"
+
+#: copyfeed.php:272
+msgid "Fast"
+msgstr "Быстро"
+
+#: copyfeed.php:278
+msgid "How long may the check for domain availability take (in seconds)?"
+msgstr "Как долго может продолжаться проверка доступности домена (в секундах)?"
+
+#: copyfeed.php:282
+msgid "Hide own blog"
+msgstr "Скрыть свой блог"
+
+#: copyfeed.php:283
+msgid "Hide search results of your own blog?"
+msgstr "Скрыть результаты поиска собственного блога?"
+
+#: copyfeed.php:286
+msgid "Feedreader IP"
+msgstr "Feedreader IP"
+
+#: copyfeed.php:287
+#: copyfeed.php:544
+msgid "Include the IP address of the feed reader?"
+msgstr "Перенять Feedreader IP?"
+
+#: copyfeed.php:290
+msgid "Short Feed"
+msgstr "Сокращенный фид"
+
+#: copyfeed.php:291
+msgid "Also attach on short version of the feed?"
+msgstr "Сделать приложение при коротком фиде?"
+
+#: copyfeed.php:291
+msgid "If the feed in shortened version is spent, then is the report of copyright likewise angehangen to become. The attitude applies also to comments and similar contributions."
+msgstr "Если фид выдан в сокращенной версии, должно также прилагаться уведомление об авторских правах. Такая настройка действительна также и для комментариев и схожих постов."
+
+#: copyfeed.php:294
+msgid "WhiteList"
+msgstr "WhiteList"
+
+#: copyfeed.php:295
+#: copyfeed.php:299
+msgid "One URL or IP per line and thus those copyright report one does not insert. Please enter the domain without HTTP:// and without Subdomain (I.E.: 123.123.23.1, example.com or only example). This does also applie to all other settings like similar contributions and comments."
+msgstr "Для каждого URL или IP необходимо создавать новую строку для того, чтобы не вводить уведомление об авторских правах. Необходимо ввести домен без http:// и без субдомена (напр. 123.123.23.1, example.com или только example). То же самое касается всех остальных настроек, как, например, похожие посты или комментарии."
+
+#: copyfeed.php:298
+msgid "BlackList"
+msgstr "BlackList"
+
+#: copyfeed.php:302
+msgid "BlackList Message"
+msgstr "Сообщение BlackList"
+
+#: copyfeed.php:303
+msgid "Use HTML, use of PHP is not possible."
+msgstr "Используйте HTML, использование PHP невозможно."
+
+#: copyfeed.php:308
+#: copyfeed.php:332
+#: copyfeed.php:382
+#: copyfeed.php:395
+#: copyfeed.php:423
+#: copyfeed.php:512
+#: copyfeed.php:539
+#: copyfeed.php:564
+msgid "Top"
+msgstr "Наверх"
+
+#: copyfeed.php:314
+msgid "Comments in feed?"
+msgstr "Комментарий в фиде?"
+
+#: copyfeed.php:315
+msgid "Checked for yes - i like comments in feed?"
+msgstr "Активно для да – я хочу комментарии в фиде?\""
+
+#: copyfeed.php:318
+msgid "Before the comments"
+msgstr "До комментариев"
+
+#: copyfeed.php:319
+msgid "Use HTML, use of PHP is not possible. Examples: &lt;h2&gt;Comment&lt;/h2&gt;&lt;ul&gt;"
+msgstr "Используйте HTML, использование PHP невозможно. Например: &lt;h2&gt;Комментарии&lt;/h2&gt;&lt;ul&gt;"
+
+#: copyfeed.php:322
+msgid "Layout of the comments"
+msgstr "Формат комментария"
+
+#: copyfeed.php:323
+msgid "Use HTML, use of PHP is not possible. You may use %author%, %authorlink%, %date%, %time%, %comment%, %excerpt%, %permalink%, %trackback% and %commentsnumber% as placeholders.<br />Example: &lt;li&gt;&lt;a href=\"%permalink%\" &gt;%date%&lt;/a&gt;, %authorlink% write:%comment%&lt;li&gt;"
+msgstr "Используйте HTML, использование PHP невозможно. В качестве символа-заполнителя можно использовать %author%, %authorlink%, %date%, %time%, %comment%, %excerpt%, %permalink% и %trackback%.<br />Beispiel: &lt;li&gt;&lt;a href=\"%permalink%\" &gt;%date%&lt;/a&gt;, %authorlink% schreibt:%comment%&lt;li&gt;"
+
+#: copyfeed.php:326
+msgid "After the comments"
+msgstr "После комментария"
+
+#: copyfeed.php:327
+msgid "Use HTML, use of PHP is possible. Examples: &lt;/ul&gt;"
+msgstr "Используйте HTML, использование PHP невозможно. Например: &lt;/ul&gt;"
+
+#: copyfeed.php:335
+msgid "Options related post in feed"
+msgstr "Настройки для похожих постов в фиде "
+
+#: copyfeed.php:338
+msgid "Related Post"
+msgstr "Похожие посты "
+
+#: copyfeed.php:339
+msgid "Include similar content in feed?"
+msgstr "Приложить похожее содержание в фиде?"
+
+#: copyfeed.php:342
+msgid "How much"
+msgstr "Сколько"
+
+#: copyfeed.php:343
+msgid "Number of items with similar content"
+msgstr "Количество статей с подобным содержанием "
+
+#: copyfeed.php:343
+msgid "How many titles should be displayed?"
+msgstr "Сколько названий должно быть выдано?"
+
+#: copyfeed.php:346
+msgid "Passwordposts"
+msgstr "Посты с паролем"
+
+#: copyfeed.php:347
+msgid "Identify posts with password?"
+msgstr "Идентифицировать посты с паролем?"
+
+#: copyfeed.php:350
+msgid "Add Excerpt"
+msgstr "Добавить выдержку"
+
+#: copyfeed.php:351
+msgid "Add excerpt of posts?"
+msgstr "Добавить выдержку  из поста?"
+
+#: copyfeed.php:354
+msgid "Number of words"
+msgstr "Количество слов"
+
+#: copyfeed.php:355
+msgid "How many words should be included in post excerpts?"
+msgstr "Какое количество слов может содержаться в выдержке из поста?"
+
+#: copyfeed.php:358
+msgid "Before items with similar content"
+msgstr "До статей с похожим содержанием"
+
+#: copyfeed.php:359
+msgid "Use HTML, use of PHP is possible. Examples: &lt;/ul&gt; &lt;h2&gt;Related posts&lt;/h2&gt;&lt;ul&gt;"
+msgstr "Используйте HTML, использование PHP невозможно. Например: &lt;h2&gt;&Похожие посты&lt;/h2&gt;&lt;ul&gt;"
+
+#: copyfeed.php:362
+msgid "Before the titles of items with similar content"
+msgstr "До статей с похожим содержанием"
+
+#: copyfeed.php:363
+msgid "Use HTML, use of PHP is not possible. Examples: &lt;li&gt;"
+msgstr "Используйте HTML, использование PHP невозможно. Например: &lt;li&gt;"
+
+#: copyfeed.php:366
+msgid "After the titles of items with similar content"
+msgstr "После статей с похожим содержанием"
+
+#: copyfeed.php:367
+msgid "Use HTML, use of PHP is not possible. Examples: &lt;/li&gt;"
+msgstr "Используйте HTML, использование PHP невозможно. Например: &lt;/li&gt;"
+
+#: copyfeed.php:370
+msgid "After the items with similar content"
+msgstr "После статей с похожим содержанием"
+
+#: copyfeed.php:371
+msgid "Use HTML, use of PHP is not possible. Examples: &lt;/ul&gt;"
+msgstr "Используйте HTML, использование PHP невозможно. Например:: &lt;/ul&gt;"
+
+#: copyfeed.php:375
+msgid "Simple Tags/Simple Tagging"
+msgstr "Simple Tags/ Simple Tagging"
+
+#: copyfeed.php:376
+msgid "Simple Tags/Simple Tagging Related Post in feed?"
+msgstr "Simple Tags/ Simple Tagging Related Post в фиде?"
+
+#: copyfeed.php:376
+msgid "You have the plugin Simple Tags/Simple Tagging actively and can on basis this plugins the related posts in the feed indicate."
+msgstr "Вы активировали плагин Simple Tags/Simple Tagging  и можете на основе этих плагинов показать относящиеся к теме посты."
+
+#: copyfeed.php:386
+msgid "Options FullFeed"
+msgstr "Настройки FullFeed"
+
+#: copyfeed.php:389
+msgid "Full Text Feed?"
+msgstr "Полный текст фида?"
+
+#: copyfeed.php:390
+msgid "Prevents WordPress 2.1+ from adding a more link to your website's feed. WordPress 2.1 introduces a nasty \"feature\" to feeds, no more in WordPress 2.5. Instead of abiding by your feed preferences, WordPress will truncate your feed's content anywhere you insert a &lt;!--more--&gt; tag. Full Text Feed undos this functionality, allowing your feeds to contain the full text regardless of &lt;!--more--&gt; usage."
+msgstr "Препятствует тому, чтобы WordPress 2.1+ вводил в фид more-Link. WordPress 2.1 вводит в фид неприятную \"Feature \", но не в WordPress 2.5. Вместо того, чтобы сохранить настройки фида, WordPress обрезает содержание фида, если использован тэг &lt;!--more--&gt; . Настройка \"полный текст фида\" отменяет это действие, и фид сохраняет свое полное содержание."
+
+#: copyfeed.php:400
+msgid "Preview &copy;Feed"
+msgstr "Предварительный просмотр &copy;Feed"
+
+#: copyfeed.php:418
+msgid "Update"
+msgstr "Обновить"
+
+#: copyfeed.php:418
+msgid "When you change the options of &copy;Feed, please update the page."
+msgstr "После изменения настроек в &copy;Feed обновить страницу."
+
+#: copyfeed.php:427
+msgid "Scan for the digital fingerprint"
+msgstr "Поиск цифрового персонального кода "
+
+#: copyfeed.php:431
+msgid "Google Blog Search"
+msgstr "Поиск Google Blog"
+
+#: copyfeed.php:437
+#: copyfeed.php:440
+#: copyfeed.php:453
+#: copyfeed.php:456
+#: copyfeed.php:469
+#: copyfeed.php:472
+#: copyfeed.php:485
+#: copyfeed.php:488
+#: copyfeed.php:501
+#: copyfeed.php:504
+#: copyfeed.php:519
+#: copyfeed.php:522
+#: copyfeed.php:525
+#: copyfeed.php:528
+msgid "Search further with:"
+msgstr "Дальнейший поиск с:"
+
+#: copyfeed.php:447
+msgid "IceRocket Blog Search"
+msgstr "Поиск IceRocket Blog"
+
+#: copyfeed.php:463
+msgid "Bloglines"
+msgstr "Bloglines"
+
+#: copyfeed.php:479
+msgid "BlogPulse Search"
+msgstr "Поиск BlogPulse"
+
+#: copyfeed.php:495
+msgid "Sphere Blog Posts"
+msgstr "Посты Sphere Blog"
+
+#: copyfeed.php:516
+msgid "further search options"
+msgstr "Расширенный поиск"
+
+#: copyfeed.php:534
+msgid "Update Options"
+msgstr "Обновить настройки"
+
+#: copyfeed.php:542
+msgid "Information on the plugin"
+msgstr "Информация о плагине"
+
+#: copyfeed.php:543
+msgid "The plugin adds a copyright notice to each post. The text fields will be displayed in the following order:"
+msgstr "Плагин помещает после каждого поста уведомление об авторских правах. При этом соблюдается следующий порядок текстовых полей:"
+
+#: copyfeed.php:545
+msgid "The digital fingerprint and the transmission of the IP address of the feed reader is optional."
+msgstr "Цифровой персональный код и перенос IP- feed reader по выбору."
+
+#: copyfeed.php:546
+msgid "xHTML can also be used. A digital fingerprint, which can be used to identify possible content theft through some search engines, can also be added. The plugin will search using search engines that include RSS feeds in their results, and include the 10 most relevant results. More information can be found here. A unique GUID will be displayed here each time the page is generated. Copy it in the relevant digital fingerprint field or use your own digital fingerprint. Examplekey: "
+msgstr "Также используется xHTML.<br /> Вы можете заложить&bdquo; цифровой персональный код&ldquo; , который можно задать в поисковой машине для выявления возможного похищения содержания. Плагин при каждом вызове этой страницы проводит поиск в соответствующих поисковых машинах, которые предлагают RSS фид в результатах поиска, и выбирает  10 самых актуальных результатов.<br /> Подробная информация по этой теме в посте &bdquo;<a href=\"http://bueltge.de/digitaler-fingerabdruck-fuer-den-feed-als-contentschutz/274\" title=\"открыть пост\">Digitaler Fingerabdruck f&uuml;r den Feed als Contentschutz</a>&ldquo;. При каждой новой загрузке страницы создается уникальный GUID, скопируйте его в верхнюю графу&bdquo; Цифровой персональный код; или установите свой код. Пример кода:"
+
+#: copyfeed.php:547
+msgid "You can also choose to display comments and entries with related content. Careful! This content will be generated dynamically and may cause some feed services to show the post as new each time a comment is posted and/or when an entry with related content is shown"
+msgstr "Вы также можете выбрать просмотр комментариев и постов с похожим содержанием. Осторожно! Это содержание создается динамично, что может привести к тому, что некоторые службы фида будут показывать пост как новый при каждой отсылке комментария, и/или когда пост с похожим содержанием уже показан."
+
+#: copyfeed.php:549
+msgid "Uninstall options"
+msgstr "Удалить настройки"
+
+#: copyfeed.php:550
+msgid "This button deletes all options of the &copy;Feed plugin. Please use it <strong>before</strong> deactivating the plugin.<br /><strong>Attention: </strong>You cannot undo this!"
+msgstr "Кнопка удаляет все настройки плагина &copy;Feed. Используйте ее <strong>до</strong> деактивации плагина.<br /><strong>Внимание: </strong>Вы не можете отменить это действие!"
+
+#: copyfeed.php:555
+msgid "Delete Options"
+msgstr "Удалить настройки "
+
+#: copyfeed.php:560
+msgid "Further information: Visit the <a href='http://bueltge.de/wp-feed-plugin/204'>plugin homepage</a> for further information or to grab the latest version of this plugin."
+msgstr "Дополнительная информация  и  последняя версия для скачивания на сайте <a href='http://bueltge.de/wp-feed-plugin/204'> </a> "
+
+#: copyfeed.php:560
+msgid "You want to thank me? Visit my <a href='http://bueltge.de/wunschliste'>wishlist</a>."
+msgstr "Если Вы хотите сказать  спасибо, зайдите на мой <a href='http://bueltge.de/wunschliste'>список пожеланий</a>."
+
+#: copyfeed.php:972
+msgid "Scan for the digital fingerprint find "
+msgstr "Поиск цифрового персонального кода "
+
+#: copyfeed.php:973
+msgid "Go to &copy;Feed-Search "
+msgstr "Перейти к поиску &copy;Feed"
+
+#: copyfeed.php:973
+#: copyfeed.php:994
+msgid "Plagiarism"
+msgstr "Плагиат"
+
+#: copyfeed.php:1221
+msgid "The options have been saved!"
+msgstr "Настройки &copy;Feed сохранены!"
+
+#: copyfeed.php:1268
+msgid "The options have been deleted!"
+msgstr "Настройки &copy;Feed удалены!"
+
+#: copyfeed.php:1289
+msgid " This feed is for personal, non-commercial use only. <br /> The use of this feed on other websites breaches copyright. If this content is not in your news reader, it makes the page you are viewing an infringement of the copyright. (Digital Fingerprint:"
+msgstr "Этот фид предназначен только для частного, а не коммерческого использования.<br /> Использование этого фида на других интернет-страницах противоречит закону об авторских правах. Если Вы читаете это содержание не в Вашем News-Reader, то страница, которую Вы читаете, нарушила закон об авторских правах. (Цифровой персональный код:"
+
+#: copyfeed.php:1291
+msgid "Comments"
+msgstr "Комментарии"
+
+#: copyfeed.php:1292
+msgid "writes"
+msgstr "написать"
+
+#: copyfeed.php:1296
+msgid "Related posts:"
+msgstr "Похожие посты:"
+

@@ -1,0 +1,424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CopyrightFeed\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-18 00:47-0800\n"
+"PO-Revision-Date: 2008-02-18 00:57-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: copyrightfeed.php:38
+msgid "Error in file: "
+msgstr "文件出错"
+
+#: copyrightfeed.php:38
+msgid " on line: "
+msgstr "位置："
+
+#: copyrightfeed.php:38
+msgid "<br />The WordPress file \"rss-functions.php\" or \"rss.php\" could not be included."
+msgstr "<br />WordPress 文件 \"rss-functions.php\" 或者 \"rss.php\" 不能被包括在内"
+
+#: copyrightfeed.php:141
+#: copyrightfeed.php:1060
+#: copyrightfeed.php:1106
+msgid "You do not have sufficient permissions to edit plugins for this blog."
+msgstr "没有足够的权限编辑此插件"
+
+#: copyrightfeed.php:152
+msgid "Domain is reachable."
+msgstr "可访问域名"
+
+#: copyrightfeed.php:153
+msgid "Domain is <b>not</b> reachable."
+msgstr "域名 <b>不可</b> 访问"
+
+#: copyrightfeed.php:213
+msgid "&copy;Feed"
+msgstr "&copy;Feed"
+
+#: copyrightfeed.php:230
+msgid "open"
+msgstr "打开"
+
+#: copyrightfeed.php:231
+msgid "close"
+msgstr "关闭"
+
+#: copyrightfeed.php:232
+msgid "click-down and drag to move this box"
+msgstr "向下点击且通过拖拽来移动"
+
+#: copyrightfeed.php:233
+msgid "click to %toggle% this box"
+msgstr "通过点击来 %toggle% 这个区域"
+
+#: copyrightfeed.php:234
+msgid "use the arrow keys to move this box"
+msgstr "通过方向键来移动"
+
+#: copyrightfeed.php:235
+msgid ", or press the enter key to %toggle% it"
+msgstr ",  或者通过enter键来 %toggle%"
+
+#: copyrightfeed.php:243
+msgid "&copy;Feed MiniMenu"
+msgstr "精简菜单"
+
+#: copyrightfeed.php:247
+#: copyrightfeed.php:267
+msgid "Options &copy;Feed"
+msgstr "选项 &copy;Feed"
+
+#: copyrightfeed.php:248
+#: copyrightfeed.php:302
+msgid "Options for comments in feed"
+msgstr "feed中显示“评论”的选项"
+
+#: copyrightfeed.php:249
+msgid "Options for related post in feed"
+msgstr "feed中显示“相关日志”的选项"
+
+#: copyrightfeed.php:250
+msgid "FullFeed"
+msgstr "feed全文输出"
+
+#: copyrightfeed.php:253
+msgid "Preview"
+msgstr "预览"
+
+#: copyrightfeed.php:254
+msgid "Search for a digital fingerprint"
+msgstr "搜索数字指纹"
+
+#: copyrightfeed.php:255
+#: copyrightfeed.php:438
+msgid "further search options"
+msgstr "更多搜索选项"
+
+#: copyrightfeed.php:256
+msgid "Information on plugin/GUID"
+msgstr " Plugin/GUID 信息"
+
+#: copyrightfeed.php:257
+msgid "Uninstall"
+msgstr "卸载"
+
+#: copyrightfeed.php:271
+#: copyrightfeed.php:467
+msgid "Start of copyright notice"
+msgstr "版权声明起始"
+
+#: copyrightfeed.php:271
+#: copyrightfeed.php:273
+#: copyrightfeed.php:295
+msgid "Use HTML, use of PHP is not possible."
+msgstr "可以使用 HTML，但不能使用 PHP"
+
+#: copyrightfeed.php:272
+#: copyrightfeed.php:467
+msgid "digital fingerprint"
+msgstr "数字指纹"
+
+#: copyrightfeed.php:272
+msgid "Possible key:"
+msgstr "可能的键值："
+
+#: copyrightfeed.php:273
+#: copyrightfeed.php:467
+msgid "End of copyright notice"
+msgstr "版权声明末尾"
+
+#: copyrightfeed.php:274
+msgid "Show content theft in Dashboard?"
+msgstr "是否在控制板区域显示盗用信息？"
+
+#: copyrightfeed.php:275
+msgid "Scan for the digital fingerprint in order to find possible contenttheft?"
+msgstr "是否扫描数字指纹以寻找可能出现的盗用情况？"
+
+#: copyrightfeed.php:280
+msgid "Fast"
+msgstr "快速"
+
+#: copyrightfeed.php:286
+msgid "How long may the check for domain availability take (in seconds)?"
+msgstr "搜寻可靠域名所用的时间（以秒为单位）"
+
+#: copyrightfeed.php:288
+msgid "Hide search results of your own blog?"
+msgstr "是否在搜索结果中隐藏自己的blog内容？"
+
+#: copyrightfeed.php:291
+#: copyrightfeed.php:467
+msgid "Include the IP address of the feed reader?"
+msgstr "是否显示feed阅读器的IP地址？"
+
+#: copyrightfeed.php:292
+msgid "Also attach on short version of the feed?"
+msgstr "是否以缩略形式显示附带的feed版本？"
+
+#: copyrightfeed.php:292
+msgid "If the feed in shortened version is spent, then is the report of copyright likewise angehangen to become. The attitude applies also to comments and similar contributions."
+msgstr "如果feed以缩略形式显示，版权声明的报告也将会附带地显示出来。这种情形同样会出现在评论以及其他类似的选项中。"
+
+#: copyrightfeed.php:293
+msgid "WhiteList"
+msgstr "白名单"
+
+#: copyrightfeed.php:293
+#: copyrightfeed.php:294
+msgid "One URL or IP per line and thus those copyright report one does not insert. Please enter the domain without HTTP:// and without Subdomain (I.E.: 123.123.23.1, example.com or only example). This does also applie to all other settings like similar contributions and comments."
+msgstr "网址或IP地址各占一行，不会与版权声明的报告混淆。网址输入不带 HTTP:// 并且不带子域名（示例：123.123.23.1，example.com 或者仅仅是example）。这种情形同样适用于评论及其它类似的设定。"
+
+#: copyrightfeed.php:294
+msgid "BlackList"
+msgstr "黑名单"
+
+#: copyrightfeed.php:295
+msgid "BlackList Message"
+msgstr "黑名单信息"
+
+#: copyrightfeed.php:306
+msgid "Comments in feed?"
+msgstr "是否在feed中显示评论？"
+
+#: copyrightfeed.php:307
+msgid "Before the comments"
+msgstr "在评论之前"
+
+#: copyrightfeed.php:307
+msgid "Use HTML, use of PHP is not possible. Examples: &lt;h2&gt;Comment&lt;/h2&gt;&lt;ul&gt;"
+msgstr "支持HTML，但不支持PHP。例如: &lt;h2&gt;Kommentare&lt;/h2&gt;&lt;ul&gt;"
+
+#: copyrightfeed.php:308
+msgid "Layout of the comments"
+msgstr "评论的样式"
+
+#: copyrightfeed.php:308
+msgid "Use HTML, use of PHP is not possible. You may use %author%, %authorlink%, %date%, %time%, %comment%, %excerpt%, %permalink% und %trackback% as placeholders.<br />Examples: &lt;li&gt;&lt;a href=\\\"%permalink%\\\" &gt;%date%&lt;/a&gt;, %authorlink% write:%comment%&lt;li&gt;"
+msgstr "支持HTML，但不支持PHP。你可以使用 %author%, %authorlink%, %date%, %time%, %comment%, %excerpt%, %permalink% 以及 %trackback% 作为占位符。<br />例如: &lt;li&gt;&lt;a href=\"%permalink%\" &gt;%date%&lt;/a&gt;, %authorlink% 发表:%comment%&lt;li&gt;"
+
+#: copyrightfeed.php:309
+msgid "After the comments"
+msgstr "评论之后"
+
+#: copyrightfeed.php:309
+msgid "Use HTML, use of PHP is possible. Examples: &lt;/ul&gt;"
+msgstr "支持HTML和PHP。例如：&lt;/ul&gt;"
+
+#: copyrightfeed.php:316
+msgid "Options related post in feed"
+msgstr "feed中相关日志的选项"
+
+#: copyrightfeed.php:320
+msgid "Include similar content in feed?"
+msgstr "是否在feed中包含相关内容？"
+
+#: copyrightfeed.php:321
+msgid "Number of items with similar content"
+msgstr "相关内容显示条数"
+
+#: copyrightfeed.php:321
+msgid "How many titles should be displayed?"
+msgstr "标题显示的数量"
+
+#: copyrightfeed.php:322
+msgid "Identify posts with password?"
+msgstr "是否为日志添加验证密码？"
+
+#: copyrightfeed.php:323
+msgid "Add excerpt of posts?"
+msgstr "是否添加日志摘要？"
+
+#: copyrightfeed.php:324
+msgid "Number of words"
+msgstr "字数"
+
+#: copyrightfeed.php:324
+msgid "How many words should be included in post excerpts?"
+msgstr "日志摘要的字数"
+
+#: copyrightfeed.php:325
+msgid "Before items with similar content"
+msgstr "在相关内容项目显示之前"
+
+#: copyrightfeed.php:325
+msgid "Use HTML, use of PHP is possible. Examples: &lt;/ul&gt; &lt;h2&gt;&Related posts&lt;/h2&gt;&lt;ul&gt;"
+msgstr "支持HTML和PHP。例如:：&lt;h2&gt;&Auml;hnliche Beitr&相关日志&lt;/h2&gt;&lt;ul&gt;"
+
+#: copyrightfeed.php:326
+msgid "Before the titles of items with similar content"
+msgstr "在显示相关内容项目的标题之前"
+
+#: copyrightfeed.php:326
+msgid "Use HTML, use of PHP is not possible. Examples: &lt;li&gt;"
+msgstr "支持HTML，不支持PHP。例如: &lt;li&gt;"
+
+#: copyrightfeed.php:327
+msgid "After the titles of items with similar content"
+msgstr "在显示相关内容项目的标题之后"
+
+#: copyrightfeed.php:327
+msgid "Use HTML, use of PHP is not possible. Examples: &lt;/li&gt;"
+msgstr "支持HTML，不支持PHP。例如: &lt;/li&gt;"
+
+#: copyrightfeed.php:328
+msgid "After the items with similar content"
+msgstr "在显示相关内容项目之后"
+
+#: copyrightfeed.php:328
+msgid "Use HTML, use of PHP is not possible. Examples: &lt;/ul&gt;"
+msgstr "支持HTML，不支持PHP。例如: &lt;/ul&gt;"
+
+#: copyrightfeed.php:330
+msgid "Simple Tags/Simple Tagging Related Post in feed?"
+msgstr "是否使用Simple Tags/Simple Tagging插件在feed中显示相关日志？"
+
+#: copyrightfeed.php:330
+msgid "You have the plugin Simple Tags/Simple Tagging actively and can on basis this plugins the related posts in the feed indicate."
+msgstr "激活 Simple Tags/Simple Tagging 插件以后，@feed插件可以在feed中更好地显示“相关日志”"
+
+#: copyrightfeed.php:338
+msgid "Options FullFeed"
+msgstr "全文输出选项"
+
+#: copyrightfeed.php:342
+msgid "Full Text Feed?"
+msgstr "是否全文输出？"
+
+#: copyrightfeed.php:342
+msgid "Prevents WordPress 2.1+ from adding a more link to your website's feed. WordPress 2.1 introduces a nasty \"feature\" to feeds. Instead of abiding by your feed preferences, WordPress will truncate your feed's content anywhere you insert a &lt;!--more--&gt; tag. Full Text Feed undos this functionality, allowing your feeds to contain the full text regardless of &lt;!--more--&gt; usage."
+msgstr "Wordpress 2.1以后的版本可以在 Feed 输出时加上\"阅读全文\"这个链接，这是新版本加入的一个“不得人心”的\"功能\"。不管怎样设置输出方式，当日志中使用了&lt;!--more--&gt;代码时，都将无法全文输出 Feed。@feed插件的全文输出功能可以让你即使在使用&lt;!--more--&gt;代码的情况下依然全文输出 Feed。"
+
+#: copyrightfeed.php:349
+msgid "Preview &copy;Feed"
+msgstr "预览 &copy;Feed"
+
+#: copyrightfeed.php:354
+msgid "Update"
+msgstr "更新"
+
+#: copyrightfeed.php:362
+msgid "Scan for the digital fingerprint"
+msgstr "扫描数字指纹"
+
+#: copyrightfeed.php:366
+msgid "Google Blog Search"
+msgstr "Google Blog Search"
+
+#: copyrightfeed.php:372
+#: copyrightfeed.php:375
+#: copyrightfeed.php:385
+#: copyrightfeed.php:388
+#: copyrightfeed.php:398
+#: copyrightfeed.php:401
+#: copyrightfeed.php:411
+#: copyrightfeed.php:414
+#: copyrightfeed.php:424
+#: copyrightfeed.php:427
+#: copyrightfeed.php:443
+#: copyrightfeed.php:444
+#: copyrightfeed.php:445
+#: copyrightfeed.php:446
+msgid "Search further with:"
+msgstr "进一步搜索："
+
+#: copyrightfeed.php:379
+msgid "IceRocket Blog Search"
+msgstr "IceRocket Blog Search"
+
+#: copyrightfeed.php:392
+msgid "Bloglines"
+msgstr "Bloglines"
+
+#: copyrightfeed.php:405
+msgid "BlogPulse Search"
+msgstr "BlogPulse Search"
+
+#: copyrightfeed.php:418
+msgid "Sphere Blog Posts"
+msgstr "Sphere Blog Posts"
+
+#: copyrightfeed.php:456
+msgid "Update Options"
+msgstr "更新选项"
+
+#: copyrightfeed.php:462
+msgid "Information on the plugin"
+msgstr "插件信息"
+
+#: copyrightfeed.php:466
+msgid "The plugin adds a copyright notice to each post. The text fields will be displayed in the following order:"
+msgstr "该插件会为每篇日志添加版权信息。文字内容将按照以下顺序显示："
+
+#: copyrightfeed.php:468
+msgid "The digital fingerprint and the transmission of the IP address of the feed reader is optional."
+msgstr "可以选择数字指纹与feed阅读器的IP地址传送"
+
+#: copyrightfeed.php:469
+msgid "xHTML can also be used. A digital fingerprint, which can be used to identify possible content theft through some search engines, can also be added. The plugin will search using search engines that include RSS feeds in their results, and include the 10 most relevant results. More information can be found here. A unique GUID will be displayed here each time the page is generated. Copy it in the relevant digital fingerprint field or use your own digital fingerprint. Examplekey: "
+msgstr "可以使用xHTML，也可以添加用来识别文章盗用的数字指纹。该插件会通过搜索引擎搜索网络以及RSS feeds 来获取结果，并会显示最有可能的前10个结果。更多信息可以在这里查看。页面生成时都会包含一个唯一的 GUID，复制并粘贴到相应的数字指纹栏或使用你自己的数字指纹即可。例如："
+
+#: copyrightfeed.php:470
+msgid "You can also choose to display comments and entries with related content. Careful! This content will be generated dynamically and may cause some feed services to show the post as new each time a comment is posted and/or when an entry with related content is shown"
+msgstr "你也可以选择是否显示相关评论及日志。注意！由于文章内容因此将会动态生成，这会导致有的feed服务出现以下问题：因新评论的产生而把旧文章看做新发布的文章，或者有新的“相关日志”项目的时候将旧文章看做新发布的文章"
+
+#: copyrightfeed.php:472
+msgid "Further information: Visit the <a href='http://bueltge.de/wp-feed-plugin/204'>plugin homepage</a> for further information or to grab the latest version of this plugin."
+msgstr "更多信息: 请访问<a href='http://bueltge.de/wp-feed-plugin/204'>插件主页</a>以获取它的最新情况"
+
+#: copyrightfeed.php:472
+msgid "You want to thank me? Visit my <a href='http://bueltge.de/wunschliste'>wishlist</a>."
+msgstr "想要对我表示感谢？访问 <a href='http://bueltge.de/wunschliste'>我的心愿</a>，看你能不能助我实现它们"
+
+#: copyrightfeed.php:479
+msgid "Uninstall options"
+msgstr "卸载选项"
+
+#: copyrightfeed.php:483
+msgid "This button deletes all options of the &copy;Feed plugin. Please use it <strong>before</strong> deactivating the plugin.<br /><strong>Attention: </strong>You cannot undo this!"
+msgstr "点击这个按钮会删掉&copy;Feed 插件所有的选项内容，请在禁用该插件<strong>之前</strong>使用。<br /><strong>注意：</strong>此项操作不可撤消！"
+
+#: copyrightfeed.php:488
+msgid "Delete Options"
+msgstr "删除选项"
+
+#: copyrightfeed.php:497
+msgid "top"
+msgstr "返回顶端"
+
+#: copyrightfeed.php:838
+msgid "Plagiarism"
+msgstr "抄袭"
+
+#: copyrightfeed.php:1058
+msgid "The options have been saved!"
+msgstr "设置已保存"
+
+#: copyrightfeed.php:1104
+msgid "The options have been deleted!"
+msgstr "设置已被删除"
+
+#: copyrightfeed.php:1122
+msgid " This feed is for personal, non-commercial use only. <br /> The use of this feed on other websites breaches copyright. If this content is not in your news reader, it makes the page you are viewing an infringement of the copyright. (Digital Fingerprint:"
+msgstr "此 Feed 的内容仅供个人或者非商业使用。<br />在任何其他网站上使用都是侵权行为。如果您并不是在 Feed 阅读器内看到此内容，那您正在访问的页面存在侵权的行为。(数字指纹:"
+
+#: copyrightfeed.php:1124
+msgid "Comments"
+msgstr "评论"
+
+#: copyrightfeed.php:1125
+msgid "writes"
+msgstr "写到"
+
+#: copyrightfeed.php:1129
+msgid "Related posts:"
+msgstr "相关文章: "
+

@@ -1,0 +1,657 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CopyrightFeed\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-04-12 13:42+0100\n"
+"PO-Revision-Date: 2009-02-01 18:04+0100\n"
+"Last-Translator: Frank Bueltge <frank@bueltge.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Dzongkha\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: D:/WP-Plugins/copyfeed/trunk/copyfeed/\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: copyfeed.php:105
+#@ copyrightfeed
+msgid "Error in file: "
+msgstr "Fehler in Datei: "
+
+#: copyfeed.php:105
+#@ copyrightfeed
+msgid " on line: "
+msgstr " in Zeile: "
+
+#: copyfeed.php:105
+#@ copyrightfeed
+msgid "<br />The WordPress file \"rss-functions.php\" or \"rss.php\" could not be included."
+msgstr "<br />Die WordPress Datei \"rss-functions.php\" oder \"rss.php\" kann nicht genutzt werden."
+
+#: copyfeed.php:215
+#: copyfeed.php:1309
+#: copyfeed.php:1356
+#@ default
+msgid "You do not have sufficient permissions to edit plugins for this blog."
+msgstr "Du hast nicht genügend Rechte zum Ausführen dieser Aktivität."
+
+#: copyfeed.php:226
+#@ copyrightfeed
+msgid "Domain is reachable."
+msgstr "Domain ist erreichbar."
+
+#: copyfeed.php:227
+#@ copyrightfeed
+msgid "Domain is <b>not</b> reachable."
+msgstr "Domain ist <b>nicht</b> erreichbar."
+
+#. translators: plugin header field 'Name'
+#: copyfeed.php:0
+#: copyfeed.php:287
+#@ copyrightfeed
+msgid "&copy;Feed"
+msgstr "&copy;Feed"
+
+#: copyfeed.php:289
+#@ copyrightfeed
+msgid "&copy;Feed MiniMenu"
+msgstr "&copy;Feed MiniMen&uuml;"
+
+#: copyfeed.php:291
+#: copyfeed.php:308
+#@ copyrightfeed
+msgid "Options &copy;Feed"
+msgstr "Einstellungen &copy;Feed"
+
+#: copyfeed.php:292
+#: copyfeed.php:374
+#@ copyrightfeed
+msgid "Options for comments in feed"
+msgstr "Einstellungen Kommentare im Feed"
+
+#: copyfeed.php:293
+#@ copyrightfeed
+msgid "Options for related post in feed"
+msgstr "Einstellungen &auml;hnliche Beitr&auml;ge im Feed"
+
+#: copyfeed.php:295
+#@ copyrightfeed
+msgid "FullFeed"
+msgstr "FullFeed"
+
+#: copyfeed.php:297
+#@ copyrightfeed
+msgid "Preview"
+msgstr "Vorschau"
+
+#: copyfeed.php:298
+#@ copyrightfeed
+msgid "Search for a digital fingerprint"
+msgstr "Suche nach dem digitalen Fingerabdruck"
+
+#: copyfeed.php:299
+#@ copyrightfeed
+msgid "Further search options"
+msgstr "Weitere Suchm&ouml;glichkeiten"
+
+#: copyfeed.php:300
+#, fuzzy
+#@ copyrightfeed
+msgid "UPDATE &raquo;"
+msgstr "Aktualisieren &raquo;"
+
+#: copyfeed.php:301
+#@ copyrightfeed
+msgid "Information on plugin/GUID"
+msgstr "Hinweise zum Plugin/GUID"
+
+#: copyfeed.php:302
+#@ copyrightfeed
+msgid "Uninstall"
+msgstr "Deinstallation"
+
+#: copyfeed.php:311
+#: copyfeed.php:607
+#@ copyrightfeed
+msgid "Start of copyright notice"
+msgstr "Copyright Mitteilung Start"
+
+#: copyfeed.php:315
+#: copyfeed.php:607
+#@ copyrightfeed
+msgid "digital fingerprint"
+msgstr "Digitaler Fingerabdruck"
+
+#: copyfeed.php:316
+#@ copyrightfeed
+msgid "Possible key:"
+msgstr "M&ouml;glicher Schl&uuml;ssel:"
+
+#: copyfeed.php:319
+#: copyfeed.php:607
+#@ copyrightfeed
+msgid "End of copyright notice"
+msgstr "Copyright Mitteilung Ende"
+
+#: copyfeed.php:323
+#@ copyrightfeed
+msgid "On Dashboard"
+msgstr "Auf dem Tellerrand"
+
+#: copyfeed.php:324
+#@ copyrightfeed
+msgid "Show content theft in Dashboard?"
+msgstr "Contentdiebe im Tellerrand anzeigen?"
+
+#: copyfeed.php:327
+#@ copyrightfeed
+msgid "Scan"
+msgstr "Suche"
+
+#: copyfeed.php:328
+#@ copyrightfeed
+msgid "Scan for the digital fingerprint in order to find possible contenttheft?"
+msgstr "Suche nach dem digitalen Fingerabdruck um m&ouml;gliche Contentdiebe zu finden?"
+
+#: copyfeed.php:331
+#@ copyrightfeed
+msgid "Scantime"
+msgstr "Suchzeit"
+
+#: copyfeed.php:335
+#@ copyrightfeed
+msgid "Fast"
+msgstr "Schnell"
+
+#: copyfeed.php:341
+#@ copyrightfeed
+msgid "How long may the check for domain availability take (in seconds)?"
+msgstr "Wie lange darf die Prüfung zur Domainerreichbarkeit prüfen (in Sekunden)?"
+
+#: copyfeed.php:345
+#@ copyrightfeed
+msgid "Hide own blog"
+msgstr "Eigenes Blog ausblenden"
+
+#: copyfeed.php:346
+#@ copyrightfeed
+msgid "Hide search results of your own blog?"
+msgstr "Suchergebnisse des eigenen Blogs ausblenden?"
+
+#: copyfeed.php:349
+#@ copyrightfeed
+msgid "Feedreader IP"
+msgstr "Feedreader IP"
+
+#: copyfeed.php:350
+#: copyfeed.php:607
+#@ copyrightfeed
+msgid "Include the IP address of the feed reader?"
+msgstr "IP-Adresse des Feedlesers &uuml;bernehmen?"
+
+#: copyfeed.php:353
+#@ copyrightfeed
+msgid "Short Feed"
+msgstr "Gekürzter Feed"
+
+#: copyfeed.php:354
+#@ copyrightfeed
+msgid "Also attach on short version of the feed?"
+msgstr "Auch bei Kurzfassung des Feeds anh&auml;ngen?"
+
+#: copyfeed.php:354
+#@ copyrightfeed
+msgid "If the feed in shortened version is spent, then is the report of copyright likewise angehangen to become. The attitude applies also to comments and similar contributions."
+msgstr "Wenn der Feed in gek&uuml;rzter Version ausgegeben wird, dann soll die Copyright-Mitteilung ebenfalls angehangen werden. Die Einstellung gilt auch f&uuml;r Kommentare und &auml;hnliche Beitr&auml;ge."
+
+#: copyfeed.php:357
+#@ copyrightfeed
+msgid "WhiteList"
+msgstr "WhiteList"
+
+#: copyfeed.php:358
+#: copyfeed.php:362
+#@ copyrightfeed
+msgid "One URL or IP per line and thus those copyright report one does not insert. Please enter the domain without HTTP:// and without Subdomain (I.E.: 123.123.23.1, example.com or only example). This does also applie to all other settings like similar contributions and comments."
+msgstr "Vergib f&uuml;r jede URL oder IP eine neue Zeile und damit wird die Copyright Mitteilung nicht eingef&uuml;gt. Es muss die Domain, ohne http:// und ohne Subdomain eingetragen werden (Bsp: 123.123.23.1, example.com oder nur example). Dies gilt auch f&uuml;r alle anderen Einstellungen wie &auml;hnliche Beitr&auml;ge und Kommentare."
+
+#: copyfeed.php:361
+#@ copyrightfeed
+msgid "BlackList"
+msgstr "BlackList"
+
+#: copyfeed.php:365
+#@ copyrightfeed
+msgid "BlackList Message"
+msgstr "BlackList Mitteilung"
+
+#: copyfeed.php:366
+#@ copyrightfeed
+msgid "Use HTML, use of PHP is not possible."
+msgstr "Nutze HTML, kein PHP m&ouml;glich."
+
+#: copyfeed.php:371
+#: copyfeed.php:395
+#: copyfeed.php:445
+#: copyfeed.php:458
+#: copyfeed.php:486
+#: copyfeed.php:575
+#: copyfeed.php:602
+#: copyfeed.php:627
+#@ copyrightfeed
+msgid "Top"
+msgstr "oben"
+
+#: copyfeed.php:377
+#@ copyrightfeed
+msgid "Comments in feed?"
+msgstr "Kommentare im Feed?"
+
+#: copyfeed.php:378
+#@ copyrightfeed
+msgid "Checked for yes - i like comments in feed?"
+msgstr "Aktiv für ja - ich mag Kommentare im Feed?"
+
+#: copyfeed.php:381
+#@ copyrightfeed
+msgid "Before the comments"
+msgstr "Vor den Kommentaren"
+
+#: copyfeed.php:382
+#@ copyrightfeed
+msgid "Use HTML, use of PHP is not possible. Examples: &lt;h2&gt;Comment&lt;/h2&gt;&lt;ul&gt;"
+msgstr "Nutze HTML, kein PHP m&ouml;glich. Beispiel: &lt;h2&gt;Kommentare&lt;/h2&gt;&lt;ul&gt;"
+
+#: copyfeed.php:385
+#@ copyrightfeed
+msgid "Layout of the comments"
+msgstr "Layout der Kommentare"
+
+#: copyfeed.php:389
+#@ copyrightfeed
+msgid "After the comments"
+msgstr "Nach den Kommentaren"
+
+#: copyfeed.php:390
+#@ copyrightfeed
+msgid "Use HTML, use of PHP is possible. Examples: &lt;/ul&gt;"
+msgstr "Nutze HTML, kein PHP m&ouml;glich. Beispiel: &lt;/ul&gt;"
+
+#: copyfeed.php:398
+#@ copyrightfeed
+msgid "Options related post in feed"
+msgstr "Einstellungen &auml;hnliche Beitr&auml;ge im Feed"
+
+#: copyfeed.php:401
+#@ copyrightfeed
+msgid "Related Post"
+msgstr "Ähnliche Beiträge"
+
+#: copyfeed.php:402
+#@ copyrightfeed
+msgid "Include similar content in feed?"
+msgstr "&Auml;hnlichen Beitr&auml;ge im Feed?"
+
+#: copyfeed.php:405
+#@ copyrightfeed
+msgid "How much"
+msgstr "Wieviel"
+
+#: copyfeed.php:406
+#@ copyrightfeed
+msgid "Number of items with similar content"
+msgstr "Anzahl der &auml;hnlichen Beitr&auml;ge"
+
+#: copyfeed.php:406
+#@ copyrightfeed
+msgid "How many titles should be displayed?"
+msgstr "Wie viele Titel sollen dargestellt werden?"
+
+#: copyfeed.php:409
+#@ copyrightfeed
+msgid "Passwordposts"
+msgstr "Passwortbeiträge"
+
+#: copyfeed.php:410
+#@ copyrightfeed
+msgid "Identify posts with password?"
+msgstr "Beitr&auml;ge mit Passwort identifizieren?"
+
+#: copyfeed.php:413
+#@ copyrightfeed
+msgid "Add Excerpt"
+msgstr "Auszug hinzufügen"
+
+#: copyfeed.php:414
+#@ copyrightfeed
+msgid "Add excerpt of posts?"
+msgstr "Auszug des Beitrags hinzuf&uuml;gen?"
+
+#: copyfeed.php:417
+#@ copyrightfeed
+msgid "Number of words"
+msgstr "Anzahl der W&ouml;rter"
+
+#: copyfeed.php:418
+#@ copyrightfeed
+msgid "How many words should be included in post excerpts?"
+msgstr "Wie viele W&ouml;rter sollen im Auszug des Beitrags dargestellt werden?"
+
+#: copyfeed.php:421
+#@ copyrightfeed
+msgid "Before items with similar content"
+msgstr "Vor den &auml;hnlichen Beitr&auml;gen"
+
+#: copyfeed.php:422
+#@ copyrightfeed
+msgid "Use HTML, use of PHP is possible. Examples: &lt;/ul&gt; &lt;h2&gt;Related posts&lt;/h2&gt;&lt;ul&gt;"
+msgstr "Nutze HTML, kein PHP m&ouml;glich. Beispiel: &lt;h2&gt;&Auml;hnliche Beitr&auml;ge&lt;/h2&gt;&lt;ul&gt;"
+
+#: copyfeed.php:425
+#@ copyrightfeed
+msgid "Before the titles of items with similar content"
+msgstr "Vor dem &auml;hnlichen Titel"
+
+#: copyfeed.php:426
+#@ copyrightfeed
+msgid "Use HTML, use of PHP is not possible. Examples: &lt;li&gt;"
+msgstr "Nutze HTML, kein PHP m&ouml;glich. Beispiel: &lt;li&gt;"
+
+#: copyfeed.php:429
+#@ copyrightfeed
+msgid "After the titles of items with similar content"
+msgstr "Nach dem &auml;hnlichen Titel"
+
+#: copyfeed.php:430
+#@ copyrightfeed
+msgid "Use HTML, use of PHP is not possible. Examples: &lt;/li&gt;"
+msgstr "Nutze HTML, kein PHP m&ouml;glich. Beispiel: &lt;/li&gt;"
+
+#: copyfeed.php:433
+#@ copyrightfeed
+msgid "After the items with similar content"
+msgstr "Nach den &auml;hnlichen Beitr&auml;gen"
+
+#: copyfeed.php:434
+#@ copyrightfeed
+msgid "Use HTML, use of PHP is not possible. Examples: &lt;/ul&gt;"
+msgstr "Nutze HTML, kein PHP m&ouml;glich. Beispiel: &lt;/ul&gt;"
+
+#: copyfeed.php:438
+#@ copyrightfeed
+msgid "Simple Tags/Simple Tagging"
+msgstr "Simple Tags/ Simple Tagging"
+
+#: copyfeed.php:439
+#@ copyrightfeed
+msgid "Simple Tags/Simple Tagging Related Post in feed?"
+msgstr "Simple Tags/ Simple Tagging Related Post im Feed?"
+
+#: copyfeed.php:439
+#@ copyrightfeed
+msgid "You have the plugin Simple Tags/Simple Tagging actively and can on basis this plugins the related posts in the feed indicate."
+msgstr "Du hast das Plugin Simple Tags/Simple Tagging aktiv und kannst auf Basis dieses Plugins die themenrelevanten Beitr&auml;ge im Feed anzeigen."
+
+#: copyfeed.php:449
+#@ copyrightfeed
+msgid "Options FullFeed"
+msgstr "Einstellungen FullFeed"
+
+#: copyfeed.php:452
+#@ copyrightfeed
+msgid "Full Text Feed?"
+msgstr "Volltextfeed?"
+
+#: copyfeed.php:453
+#@ copyrightfeed
+msgid "Prevents WordPress 2.1+ from adding a more link to your website's feed. WordPress 2.1 introduces a nasty \"feature\" to feeds, no more in WordPress 2.5. Instead of abiding by your feed preferences, WordPress will truncate your feed's content anywhere you insert a &lt;!--more--&gt; tag. Full Text Feed undos this functionality, allowing your feeds to contain the full text regardless of &lt;!--more--&gt; usage."
+msgstr "Verhindert, dass WordPress 2.1+ einen more-Link zum Feed hinzufügt. WordPress 2.1 führt ein unschönes \"Feature \" zum Feed ein, nicht mehr in WordPress 2.5. Anstatt bei den Feedeinstellungen zu bleiben, beschneidet WordPress den Inhalt des Feed, wenn ein &lt;!--more--&gt; Tag gesetzt ist. Diese Option macht es rückgängig, der Feed enthält den kompletten Inhalt."
+
+#: copyfeed.php:463
+#@ copyrightfeed
+msgid "Preview &copy;Feed"
+msgstr "Vorschau &copy;Feed"
+
+#: copyfeed.php:490
+#@ copyrightfeed
+msgid "Scan for the digital fingerprint"
+msgstr "Suche nach dem digitalen Fingerabdruck"
+
+#: copyfeed.php:494
+#@ copyrightfeed
+msgid "Google Blog Search"
+msgstr "Google Blog Suche"
+
+#: copyfeed.php:500
+#: copyfeed.php:503
+#: copyfeed.php:516
+#: copyfeed.php:519
+#: copyfeed.php:532
+#: copyfeed.php:535
+#: copyfeed.php:548
+#: copyfeed.php:551
+#: copyfeed.php:564
+#: copyfeed.php:567
+#: copyfeed.php:582
+#: copyfeed.php:585
+#: copyfeed.php:588
+#: copyfeed.php:591
+#@ copyrightfeed
+msgid "Search further with:"
+msgstr "Suche tiefer mit:"
+
+#: copyfeed.php:510
+#@ copyrightfeed
+msgid "IceRocket Blog Search"
+msgstr "IceRocket Blog Suche"
+
+#: copyfeed.php:526
+#@ copyrightfeed
+msgid "Bloglines"
+msgstr "Bloglines"
+
+#: copyfeed.php:542
+#@ copyrightfeed
+msgid "BlogPulse Search"
+msgstr "BlogPulse Suche"
+
+#: copyfeed.php:558
+#@ copyrightfeed
+msgid "Sphere Blog Posts"
+msgstr "Sphere Blog Beiträge"
+
+#: copyfeed.php:579
+#@ copyrightfeed
+msgid "further search options"
+msgstr "weitere Suchm&ouml;glichkeiten"
+
+#: copyfeed.php:597
+#@ copyrightfeed
+msgid "Update Options"
+msgstr "Einstellungen aktualisieren"
+
+#: copyfeed.php:605
+#@ copyrightfeed
+msgid "Information on the plugin"
+msgstr "Hinweise zum Plugin"
+
+#: copyfeed.php:606
+#@ copyrightfeed
+msgid "The plugin adds a copyright notice to each post. The text fields will be displayed in the following order:"
+msgstr "Das Plugin setzt hinter jeden Beitrag den Copyright-Hinweis. Dabei wird folgende Reihenfolge der Textfelder vorgenommen:"
+
+#: copyfeed.php:608
+#@ copyrightfeed
+msgid "The digital fingerprint and the transmission of the IP address of the feed reader is optional."
+msgstr "Der digitalen Fingerabdruck und die &Uuml;bergabe der IP-Adresse des Feed-Lesers ist optional."
+
+#: copyfeed.php:609
+#@ copyrightfeed
+msgid "xHTML can also be used. A digital fingerprint, which can be used to identify possible content theft through some search engines, can also be added. The plugin will search using search engines that include RSS feeds in their results, and include the 10 most relevant results. More information can be found here. A unique GUID will be displayed here each time the page is generated. Copy it in the relevant digital fingerprint field or use your own digital fingerprint. Examplekey: "
+msgstr "Ebenso kann xHTML eingesetzt werden.<br />Du kannst einen &bdquo;digitalen Fingerabdruck&ldquo; hinterlegen, nach dem man mit Hilfe von Suchmaschinen suchen kann um eventuellen Contentdiebstahl zu finden. Das Plugin sucht bei jedem Aufrufen dieser Seite in einschl&auml;gigen Suchmaschinen, die einen RSS-Feed ihrer Suche anbieten, nach den Ergebnissen und stellt die die aktuellsten 10 Ergebnisse bereit.<br />Mehr Informationen dazu findest du im Beitrag &bdquo;<a href=\"http://bueltge.de/digitaler-fingerabdruck-fuer-den-feed-als-contentschutz/274\" title=\"zum Beitrag\">Digitaler Fingerabdruck f&uuml;r den Feed als Contentschutz</a>&ldquo;. Ein GUID daf&uuml;r wird bei jedem neuen Laden der Seite neu erzeugt und ist eindeutig, kopiere es in das obige Feld &bdquo;digitaler Fingerabdruck&ldquo; oder setze eine eigenen Schl&uuml;ssel. Beispielschl&uuml;ssel: "
+
+#: copyfeed.php:610
+#@ copyrightfeed
+msgid "You can also choose to display comments and entries with related content. Careful! This content will be generated dynamically and may cause some feed services to show the post as new each time a comment is posted and/or when an entry with related content is shown"
+msgstr "Im weiteren kann zu jedem Feed, die Kommentare des Beitrags und themenverwante Beitr&auml;ge angezeigt werden. Achtung: diese Daten werden dynamisch geladen, sind ver&auml;nderlich, und k&ouml;nnen somit dazu f&uuml;hren, dass der Artikel in einigen NewsFeed-Services als Aktuell erscheint, sobald es einen neuen Kommentar gibt, bzw. immer, da die themenverwanten Beitr&auml;ge sich immer &auml;ndern k&ouml;nnten."
+
+#: copyfeed.php:612
+#@ copyrightfeed
+msgid "Uninstall options"
+msgstr "Deinstalliere Einstellungen"
+
+#: copyfeed.php:613
+#@ copyrightfeed
+msgid "This button deletes all options of the &copy;Feed plugin. Please use it <strong>before</strong> deactivating the plugin.<br /><strong>Attention: </strong>You cannot undo this!"
+msgstr "Der Button löscht alle Einstellungen des Plugins &copy;Feed. Bitte nutze ihn, <strong>bevor</strong> das Plugin deaktiviert wird.<br /><strong>Achtung: </strong>Du kannst dies nicht rückgängig machen!"
+
+#: copyfeed.php:618
+#@ copyrightfeed
+msgid "Delete Options"
+msgstr "Einstellungen löschen"
+
+#: copyfeed.php:623
+#@ copyrightfeed
+msgid "Further information: Visit the <a href='http://bueltge.de/wp-feed-plugin/204'>plugin homepage</a> for further information or to grab the latest version of this plugin."
+msgstr "Weitere Informationen: Beusche die <a href='http://bueltge.de/wp-feed-plugin/204'>Plugin Webseite</a> f&uuml;r weitere Informationen oder lade die aktuelle Version."
+
+#: copyfeed.php:623
+#@ copyrightfeed
+msgid "You want to thank me? Visit my <a href='http://bueltge.de/wunschliste'>wishlist</a>."
+msgstr "Du willst Danke sagen, dann besuche meine <a href='http://bueltge.de/wunschliste'>Wunschliste</a>."
+
+#: copyfeed.php:1043
+#@ copyrightfeed
+msgid "Scan for the digital fingerprint find "
+msgstr "Suche nach dem digitalen Fingerabdruck "
+
+#: copyfeed.php:1044
+#@ copyrightfeed
+msgid "Go to &copy;Feed-Search "
+msgstr "Geh zu &copy;Feed-Suche "
+
+#: copyfeed.php:1044
+#: copyfeed.php:1065
+#@ copyrightfeed
+msgid "Plagiarism"
+msgstr "Contentdiebe"
+
+#: copyfeed.php:1307
+#@ copyrightfeed
+msgid "The options have been saved!"
+msgstr "&copy;Feed Einstellungen wurden gespeichert!"
+
+#: copyfeed.php:1354
+#@ copyrightfeed
+msgid "The options have been deleted!"
+msgstr "&copy;Feed Einstellungen wurden gespeichert!"
+
+#: copyfeed.php:1375
+#@ copyrightfeed
+msgid " This feed is for personal, non-commercial use only. <br /> The use of this feed on other websites breaches copyright. If this content is not in your news reader, it makes the page you are viewing an infringement of the copyright. (Digital Fingerprint:"
+msgstr "Dieser Feed ist nur f&uuml;r den pers&ouml;nlichen, nicht gewerblichen Gebrauch bestimmt.<br />Eine Verwendung dieses Feeds auf anderen Webseiten verst&ouml;&szlig;t gegen das Urheberrecht. Wenn Sie diesen Inhalt nicht in Ihrem News-Reader lesen, so macht sich die Seite, die Sie betrachten, der Urheberrechtsverletzung schuldig. (Digital Fingerprint:"
+
+#: copyfeed.php:1377
+#@ copyrightfeed
+msgid "Comments"
+msgstr "Kommentare"
+
+#: copyfeed.php:1378
+#@ copyrightfeed
+msgid "writes"
+msgstr "schreiben"
+
+#: copyfeed.php:1382
+#@ copyrightfeed
+msgid "Related posts:"
+msgstr "Ähnliche Beiträge:"
+
+#. translators: plugin header field 'PluginURI'
+#: copyfeed.php:0
+#@ copyrightfeed
+msgid "http://bueltge.de/wp-feed-plugin/204/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: copyfeed.php:0
+#@ copyrightfeed
+msgid "Extends the feed! A report of copyright, a digital fingerprint and the IP of the feed reader can be added. In addition, some search engines are scanned for the digital fingerprint in order to find possible content theft. The feed can be also be supplemented with comments and topic-relevant contributions. The complete RSS feed can be delivered even if the <code>&lt;--more--&gt;</code> tag is used in WP 2.1+. It is possible to view related post using the plugin <em>Simple Tagging</em> or <em>Simple Tags</em>."
+msgstr "Erweitert den Feed! Ein Bericht des Urheberrechts, ein digitaler Fingerabdruck und die IP des Feed-Reader können hinzugefügt werden. Darüber hinaus werden einige Suchmaschinen für den digitalen Fingerabdruck gescannt um mögliche Inhalte als Diebstahl zu identifizieren. Der Feed kann auch mit Kommentaren und themenrelevanten Beiträgen ergänzen. Der komplette RSS-Feed kann ausgeliefert werden, auch wenn <code>&lt;--more--&gt;</code> -Tag in WP 2.1* genutzt wird."
+
+#. translators: plugin header field 'Author'
+#: copyfeed.php:0
+#@ copyrightfeed
+msgid "Frank B&uuml;ltge"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: copyfeed.php:0
+#@ copyrightfeed
+msgid "http://bueltge.de/"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: copyfeed.php:0
+#@ copyrightfeed
+msgid "4.7.5"
+msgstr ""
+
+#: copyfeed.php:62
+#@ default
+msgid "Settings"
+msgstr ""
+
+#: copyfeed.php:89
+#@ default
+msgid "plugin"
+msgstr ""
+
+#: copyfeed.php:89
+#@ default
+msgid "Version"
+msgstr ""
+
+#: copyfeed.php:89
+#@ copyrightfeed
+msgid "History"
+msgstr "Historie"
+
+#: copyfeed.php:89
+#@ default
+msgid "Author"
+msgstr ""
+
+#: copyfeed.php:312
+#, php-format
+#@ copyrightfeed
+msgid "Use HTML, use of PHP is not possible. You may use %title%, %author%, %authorlink%, %date%, %time%, %permalink% and %commentsnumber% as placeholders.<br />Example: &lt;a href=\"%permalink%#comments\" title=\"to the comments\"&gt;To the comments&lt;/a&gt;, Author: &lt;a href=\"%authorlink%\" &gt;%author%&lt;/a&gt;"
+msgstr "Nutze HTML, kein PHP m&ouml;glich. Du kannst %title%, %author%, %authorlink%, %date%, %time%, %permalink% und %commentsnumber% als Platzhalter nutzen.<br />Beispiel: &lt;a href=\"%permalink%#comments\" title=\"zu den Kommentaren\"&gt;zu den Kommentaren&lt;/a&gt;, Autor: &lt;a href=\"%authorlink%\" &gt;%author%&lt;/a&gt;"
+
+#: copyfeed.php:320
+#, php-format
+#@ copyrightfeed
+msgid "Use HTML, use of PHP is not possible. You may use %title%, %author%, %authorlink%, %date%, %time%, %permalink%, and %commentsnumber% as placeholders.<br />Example: &lt;a href=\"%permalink%#comments\" title=\"to the comments\"&gt;To the comments&lt;/a&gt;, Author: &lt;a href=\"%authorlink%\" &gt;%author%&lt;/a&gt;"
+msgstr "Nutze HTML, kein PHP m&ouml;glich. Du kannst %title%, %author%, %authorlink%, %date%, %time%, %permalink% und %commentsnumber% als Platzhalter nutzen.<br />Beispiel: &lt;a href=\"%permalink%#comments\" title=\"zu den Kommentaren\"&gt;zu den Kommentaren&lt;/a&gt;, Autor: &lt;a href=\"%authorlink%\" &gt;%author%&lt;/a&gt;"
+
+#: copyfeed.php:386
+#, php-format
+#@ copyrightfeed
+msgid "Use HTML, use of PHP is not possible. You may use %title%, %author%, %authorlink%, %date%, %time%, %comment%, %excerpt%, %permalink%, %commentpermalink%, %trackback% and %commentsnumber% as placeholders.<br />Example: &lt;li&gt;&lt;a href=\"%permalink%\" &gt;%date%&lt;/a&gt;, %authorlink% write:%comment%&lt;li&gt;"
+msgstr "Nutze HTML, kein PHP m&ouml;glich. Du kannst %title%, %author%, %authorlink%, %date%, %time%, %comment%, %excerpt%, %permalink%, %commentpermalink% und %trackback% als Platzhalter nutzen.<br />Beispiel: &lt;li&gt;&lt;a href=\"%permalink%\" &gt;%date%&lt;/a&gt;, %authorlink% schreibt:%comment%&lt;li&gt;"
+
+#: copyfeed.php:481
+#@ copyrightfeed
+msgid "Update Preview"
+msgstr "Vorschau Aktualisieren"
+
+#: copyfeed.php:481
+#@ copyrightfeed
+msgid "When you change the options of &copy;Feed; you can update the preview."
+msgstr "Wenn die Einstellungen geändert wurden, dann kann die Vorschau aktualisiert werden."
+

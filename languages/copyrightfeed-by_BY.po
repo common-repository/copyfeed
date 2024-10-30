@@ -1,0 +1,484 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CopyrightFeed\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-04-12 13:42+0100\n"
+"PO-Revision-Date: 2010-03-22 10:14+0300\n"
+"Last-Translator: FatCow <zhr@tut.by>\n"
+"Language-Team: Marcis G. <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: D:\\WP-Plugins\\copyfeed\\trunk\\copyfeed\\\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: copyfeed.php:42
+msgid "Error in file: "
+msgstr "Памылка ў файле: "
+
+#: copyfeed.php:42
+msgid " on line: "
+msgstr "у радку: "
+
+#: copyfeed.php:42
+msgid "<br />The WordPress file \"rss-functions.php\" or \"rss.php\" could not be included."
+msgstr "<br />Файл WordPress \"rss-functions.php\" ці \"rss.php\" не ўключаны."
+
+#: copyfeed.php:152
+#: copyfeed.php:1223
+#: copyfeed.php:1270
+msgid "You do not have sufficient permissions to edit plugins for this blog."
+msgstr "У вас недастаткова мае рацыю на рэдагаванне ўбудоў для гэтага блога."
+
+#: copyfeed.php:163
+msgid "Domain is reachable."
+msgstr "Дамен даступны."
+
+#: copyfeed.php:164
+msgid "Domain is <b>not</b> reachable."
+msgstr "Дамен недаступны."
+
+#: copyfeed.php:224
+msgid "&copy;Feed"
+msgstr "&copy;Стужка"
+
+#: copyfeed.php:226
+msgid "&copy;Feed MiniMenu"
+msgstr "&copy;Feed MiniMen&uuml;"
+
+#: copyfeed.php:228
+#: copyfeed.php:245
+msgid "Options &copy;Feed"
+msgstr "Налады &copy;стужкі"
+
+#: copyfeed.php:229
+#: copyfeed.php:311
+msgid "Options for comments in feed"
+msgstr "Опцыі для каментароў у стужцы"
+
+#: copyfeed.php:230
+msgid "Options for related post in feed"
+msgstr "Опцыі для злучаных пастоў у стужцы"
+
+#: copyfeed.php:232
+msgid "FullFeed"
+msgstr "FullFeed"
+
+#: copyfeed.php:234
+msgid "Preview"
+msgstr "Прадагляд"
+
+#: copyfeed.php:235
+msgid "Search for a digital fingerprint"
+msgstr "Пошук лічбавых адбіткаў пальцаў"
+
+#: copyfeed.php:236
+msgid "Further search options"
+msgstr "Дадатковыя магчымасці пошуку"
+
+#: copyfeed.php:237
+msgid "UPDATE &raquo;"
+msgstr "АБНАВІЦЬ &raquo;"
+
+#: copyfeed.php:238
+msgid "Information on plugin/GUID"
+msgstr "Інфармацыя ва ўбудове/GUID"
+
+#: copyfeed.php:239
+msgid "Uninstall"
+msgstr "Дэўсталёўка"
+
+#: copyfeed.php:248
+#: copyfeed.php:544
+msgid "Start of copyright notice"
+msgstr "Пачатак у аўтарскім праве"
+
+#: copyfeed.php:249
+msgid "Use HTML, use of PHP is not possible. You may use %author%, %authorlink%, %date%, %time%, %permalink% and %commentsnumber% as placeholders.<br />Example: &lt;a href=\"%permalink%#comments\" title=\"to the comments\"&gt;To the comments&lt;/a&gt;, Author: &lt;a href=\"%authorlink%\" &gt;%author%&lt;/a&gt;"
+msgstr "Выкарыстанне HTML, PHP немагчыма. Вы можаце выкарыстоўваць %author%, %authorlink%, %date%, %time%, %permalink% і %commentsnumber% як падзельнікі.<br />Прыклад: &lt;a href=\"%permalink%#comments\" title=\"to the comments\"&gt;To the comments&lt;/a&gt;, Author: &lt;a href=\"%authorlink%\" &gt;%author%&lt;/a&gt;"
+
+#: copyfeed.php:252
+#: copyfeed.php:544
+msgid "digital fingerprint"
+msgstr "лічбавы адбітак"
+
+#: copyfeed.php:253
+msgid "Possible key:"
+msgstr "Магчымая клавіша:"
+
+#: copyfeed.php:256
+#: copyfeed.php:544
+msgid "End of copyright notice"
+msgstr "Канец у аўтарскім праве"
+
+#: copyfeed.php:257
+msgid "Use HTML, use of PHP is not possible. You may use %author%, %authorlink%, %date%, %time%, %permalink%, and %commentsnumber% as placeholders.<br />Example: &lt;a href=\"%permalink%#comments\" title=\"to the comments\"&gt;To the comments&lt;/a&gt;, Author: &lt;a href=\"%authorlink%\" &gt;%author%&lt;/a&gt;"
+msgstr "Выкарыстанне HTML, PHP немагчыма. Вы можаце выкарыстоўваць %author%, %authorlink%, %date%, %time%, %permalink% і %commentsnumber% як падзельнікі.<br />Прыклад: &lt;a href=\"%permalink%#comments\" title=\"to the comments\"&gt;To the comments&lt;/a&gt;, Author: &lt;a href=\"%authorlink%\" &gt;%author%&lt;/a&gt;"
+
+#: copyfeed.php:260
+msgid "On Dashboard"
+msgstr "У Панэлі кіравання"
+
+#: copyfeed.php:261
+msgid "Show content theft in Dashboard?"
+msgstr "Паказаць утрыманне крадзяжу ў панэлі прылад?"
+
+#: copyfeed.php:264
+msgid "Scan"
+msgstr "Сканаванне"
+
+#: copyfeed.php:265
+msgid "Scan for the digital fingerprint in order to find possible contenttheft?"
+msgstr "Сканаваць лічбавыя адбіткі пальцаў, каб знайсці магчымы крадзеж кантэнту?"
+
+#: copyfeed.php:268
+msgid "Scantime"
+msgstr "Час сканавання"
+
+#: copyfeed.php:272
+msgid "Fast"
+msgstr "Хуткае"
+
+#: copyfeed.php:278
+msgid "How long may the check for domain availability take (in seconds)?"
+msgstr "Як доўга можа праверыць наяўнасць вольных даменных прыняць (у секундах)?"
+
+#: copyfeed.php:282
+msgid "Hide own blog"
+msgstr "Схаваць наш блог"
+
+#: copyfeed.php:283
+msgid "Hide search results of your own blog?"
+msgstr "Паказваць вынікі пошуку ў сваім блогу?"
+
+#: copyfeed.php:286
+msgid "Feedreader IP"
+msgstr "Feedreader IP"
+
+#: copyfeed.php:287
+#: copyfeed.php:544
+msgid "Include the IP address of the feed reader?"
+msgstr "Уключаць адрас IP чытача стужкі?"
+
+#: copyfeed.php:290
+msgid "Short Feed"
+msgstr "Кароткая стужка"
+
+#: copyfeed.php:291
+msgid "Also attach on short version of the feed?"
+msgstr "Таксама прыкладзяце на кароткія версіі канала?"
+
+#: copyfeed.php:291
+msgid "If the feed in shortened version is spent, then is the report of copyright likewise angehangen to become. The attitude applies also to comments and similar contributions."
+msgstr "Калі канал у скарочаным варыянце праводзіцца, то і даклад сайта таксама angehangen стаць. Стаўленне распаўсюджваецца таксама на заўвагі і аналагічныя ўнёскі."
+
+#: copyfeed.php:294
+msgid "WhiteList"
+msgstr "Белы ліст"
+
+#: copyfeed.php:295
+#: copyfeed.php:299
+msgid "One URL or IP per line and thus those copyright report one does not insert. Please enter the domain without HTTP:// and without Subdomain (I.E.: 123.123.23.1, example.com or only example). This does also applie to all other settings like similar contributions and comments."
+msgstr "Адзін URL ці IP на лініі і якія, такім чынам адзін даклад сайта не ўставіць. Калі ласка, увядзіце імя дамена без HTTP: / / і без субдаменаў (IE: 123.123.23.1, example.com ці толькі прыклад). Гэта таксама applie усе іншыя параметры, такія як аналагічныя ўнёскі і заўвагі."
+
+#: copyfeed.php:298
+msgid "BlackList"
+msgstr "Чорны спіс"
+
+#: copyfeed.php:302
+msgid "BlackList Message"
+msgstr "Паведамленне чорнага спісу"
+
+#: copyfeed.php:303
+msgid "Use HTML, use of PHP is not possible."
+msgstr "Выкарыстоўвайце HTML, PHP не дазволены."
+
+#: copyfeed.php:308
+#: copyfeed.php:332
+#: copyfeed.php:382
+#: copyfeed.php:395
+#: copyfeed.php:423
+#: copyfeed.php:512
+#: copyfeed.php:539
+#: copyfeed.php:564
+msgid "Top"
+msgstr "Топ"
+
+#: copyfeed.php:314
+msgid "Comments in feed?"
+msgstr "Каментары ў стужцы?"
+
+#: copyfeed.php:315
+msgid "Checked for yes - i like comments in feed?"
+msgstr "Выстаўлена на ды - я кахаю каментары ў канале?"
+
+#: copyfeed.php:318
+msgid "Before the comments"
+msgstr "Да каментароў"
+
+#: copyfeed.php:319
+msgid "Use HTML, use of PHP is not possible. Examples: &lt;h2&gt;Comment&lt;/h2&gt;&lt;ul&gt;"
+msgstr "Выкарыстоўвайце HTML, PHP не дазволены. Прыклады: &lt;h2&gt;Comment&lt;/h2&gt;&lt;ul&gt;"
+
+#: copyfeed.php:322
+msgid "Layout of the comments"
+msgstr "Схема каментароў"
+
+#: copyfeed.php:323
+msgid "Use HTML, use of PHP is not possible. You may use %author%, %authorlink%, %date%, %time%, %comment%, %excerpt%, %permalink%, %trackback% and %commentsnumber% as placeholders.<br />Example: &lt;li&gt;&lt;a href=\"%permalink%\" &gt;%date%&lt;/a&gt;, %authorlink% write:%comment%&lt;li&gt;"
+msgstr "Выкарыстоўвайце HTML, PHP не дазволены. Вы можаце выкарыстоўваць %author%, %authorlink%, %date%, %time%, %comment%, %excerpt%, %permalink%, %trackback% and %commentsnumber% у якасці запаўняльніка. <br />Example: &lt;li&gt;&lt;a href=\"%permalink%\" &gt;%date%&lt;/a&gt;, %authorlink% write:%comment%&lt;li&gt;"
+
+#: copyfeed.php:326
+msgid "After the comments"
+msgstr "Пасля каментароў"
+
+#: copyfeed.php:327
+msgid "Use HTML, use of PHP is possible. Examples: &lt;/ul&gt;"
+msgstr "Выкарыстоўвайце HTML, PHP не дазволены. Прыклад: &lt;/ul&gt;"
+
+#: copyfeed.php:335
+msgid "Options related post in feed"
+msgstr "Налады, якія тычацца пасады ў каналах"
+
+#: copyfeed.php:338
+msgid "Related Post"
+msgstr "Падобныя пасты"
+
+#: copyfeed.php:339
+msgid "Include similar content in feed?"
+msgstr "Уключаць падобны кантэнт у стужкі?"
+
+#: copyfeed.php:342
+msgid "How much"
+msgstr "Колькі"
+
+#: copyfeed.php:343
+msgid "Number of items with similar content"
+msgstr "Колькасць элементаў у падобным утрыманні"
+
+#: copyfeed.php:343
+msgid "How many titles should be displayed?"
+msgstr "Слізка загалоўкаў трэба адлюстроўваць?"
+
+#: copyfeed.php:346
+msgid "Passwordposts"
+msgstr "Абароненыя паролем пасты"
+
+#: copyfeed.php:347
+msgid "Identify posts with password?"
+msgstr "Ідэнтыфікаваць пасты паролем?"
+
+#: copyfeed.php:350
+msgid "Add Excerpt"
+msgstr "Дадаць вытрымку"
+
+#: copyfeed.php:351
+msgid "Add excerpt of posts?"
+msgstr "Дадаць вытрымку ў пасты?"
+
+#: copyfeed.php:354
+msgid "Number of words"
+msgstr "Колькасць слоў"
+
+#: copyfeed.php:355
+msgid "How many words should be included in post excerpts?"
+msgstr "Колькі слоў павінна быць у вытрымцы паста?"
+
+#: copyfeed.php:358
+msgid "Before items with similar content"
+msgstr "Да элементаў з падобным утрыманнем"
+
+#: copyfeed.php:359
+msgid "Use HTML, use of PHP is possible. Examples: &lt;/ul&gt; &lt;h2&gt;Related posts&lt;/h2&gt;&lt;ul&gt;"
+msgstr "Выкарыстоўвайце HTML, PHP не дазволены. Прыклады: &lt;/ul&gt; &lt;h2&gt;Related posts&lt;/h2&gt;&lt;ul&gt;"
+
+#: copyfeed.php:362
+msgid "Before the titles of items with similar content"
+msgstr "Перад назвай пунктаў з аналагічным утрыманнем"
+
+#: copyfeed.php:363
+msgid "Use HTML, use of PHP is not possible. Examples: &lt;li&gt;"
+msgstr "Выкарыстоўвайце HTML, PHP не дазволены. Прыклады: &lt;li&gt;"
+
+#: copyfeed.php:366
+msgid "After the titles of items with similar content"
+msgstr "Пасля назвы пунктаў з аналагічным утрыманнем"
+
+#: copyfeed.php:367
+msgid "Use HTML, use of PHP is not possible. Examples: &lt;/li&gt;"
+msgstr "Выкарыстоўвайце HTML, PHP не дазволены. Прыклады:  &lt;/li&gt;"
+
+#: copyfeed.php:370
+msgid "After the items with similar content"
+msgstr "Пасля пунктаў з аналагічным утрыманнем"
+
+#: copyfeed.php:371
+msgid "Use HTML, use of PHP is not possible. Examples: &lt;/ul&gt;"
+msgstr "Выкарыстоўвайце HTML, PHP не дазволены. Прыклады: &lt;/ul&gt;"
+
+#: copyfeed.php:375
+msgid "Simple Tags/Simple Tagging"
+msgstr "Простыя тэгі/ Простае теггирование"
+
+#: copyfeed.php:376
+msgid "Simple Tags/Simple Tagging Related Post in feed?"
+msgstr "Простыя тэгі/ Простае теггирование пастоў у стужцы?"
+
+#: copyfeed.php:376
+msgid "You have the plugin Simple Tags/Simple Tagging actively and can on basis this plugins the related posts in the feed indicate."
+msgstr "У вас ёсць убудова Простыя Тэгі / Simple Tagging актыўна і можа на падставе гэтага ўбудовы адпаведных пасад у канале паказваюць."
+
+#: copyfeed.php:386
+msgid "Options FullFeed"
+msgstr "Налады FullFeed"
+
+#: copyfeed.php:389
+msgid "Full Text Feed?"
+msgstr "Поўны тэкст стужкі?"
+
+#: copyfeed.php:390
+msgid "Prevents WordPress 2.1+ from adding a more link to your website's feed. WordPress 2.1 introduces a nasty \"feature\" to feeds, no more in WordPress 2.5. Instead of abiding by your feed preferences, WordPress will truncate your feed's content anywhere you insert a &lt;!--more--&gt; tag. Full Text Feed undos this functionality, allowing your feeds to contain the full text regardless of &lt;!--more--&gt; usage."
+msgstr "Прадухіляе WordPress 2.1 + дадаваць спасылку дадаткова карміць вашага сайта. WordPress 2.1 уяўляе непрыемную \"функцыю\" на каналы, не больш за 2,5 у WordPress. Замест выканання Вашых пераваг корму, WordPress будзе падразаць утрыманне вашага канала ў любым месцы вы ўставіць &lt;! - Падрабязней -&gt; тэга. Поўны тэкст Feed адмены гэтай функцыі, дазваляючы каналы ўтрымоўваюць поўны тэкст, незалежна ад &lt;! - Больш -&gt; выкарыстанні."
+
+#: copyfeed.php:400
+msgid "Preview &copy;Feed"
+msgstr "Прадагляд &copy;стужкі"
+
+#: copyfeed.php:418
+msgid "Update"
+msgstr "Абнавіць"
+
+#: copyfeed.php:418
+msgid "When you change the options of &copy;Feed, please update the page."
+msgstr "Пры змене налад &copy;Feed, абновіце старонку."
+
+#: copyfeed.php:427
+msgid "Scan for the digital fingerprint"
+msgstr "Сканаваць для лічбавых адбіткаў"
+
+#: copyfeed.php:431
+msgid "Google Blog Search"
+msgstr "Google Blog пошук"
+
+#: copyfeed.php:437
+#: copyfeed.php:440
+#: copyfeed.php:453
+#: copyfeed.php:456
+#: copyfeed.php:469
+#: copyfeed.php:472
+#: copyfeed.php:485
+#: copyfeed.php:488
+#: copyfeed.php:501
+#: copyfeed.php:504
+#: copyfeed.php:519
+#: copyfeed.php:522
+#: copyfeed.php:525
+#: copyfeed.php:528
+msgid "Search further with:"
+msgstr "Пошук у далейшым з:"
+
+#: copyfeed.php:447
+msgid "IceRocket Blog Search"
+msgstr "IceRocket Blog пошук"
+
+#: copyfeed.php:463
+msgid "Bloglines"
+msgstr "Bloglines"
+
+#: copyfeed.php:479
+msgid "BlogPulse Search"
+msgstr "BlogPulse пошук"
+
+#: copyfeed.php:495
+msgid "Sphere Blog Posts"
+msgstr "Sphere Blog пасты"
+
+#: copyfeed.php:516
+msgid "further search options"
+msgstr "налады далейшага пошуку"
+
+#: copyfeed.php:534
+msgid "Update Options"
+msgstr "Абнавіць налады"
+
+#: copyfeed.php:542
+msgid "Information on the plugin"
+msgstr "Інфармацыя на ўбудову"
+
+#: copyfeed.php:543
+msgid "The plugin adds a copyright notice to each post. The text fields will be displayed in the following order:"
+msgstr "Убудова дадае значок пра аўтарскае права для кожнага паста. Тэкставыя палі будуць адлюстроўвацца ў наступным парадку:"
+
+#: copyfeed.php:545
+msgid "The digital fingerprint and the transmission of the IP address of the feed reader is optional."
+msgstr "Лічбавыя адбіткаў пальцаў, а таксама перадачу IP-адрас каналочитателя не з'яўляецца абавязковым."
+
+#: copyfeed.php:546
+msgid "xHTML can also be used. A digital fingerprint, which can be used to identify possible content theft through some search engines, can also be added. The plugin will search using search engines that include RSS feeds in their results, and include the 10 most relevant results. More information can be found here. A unique GUID will be displayed here each time the page is generated. Copy it in the relevant digital fingerprint field or use your own digital fingerprint. Examplekey: "
+msgstr "XHTML таксама можа быць скарыстаны. Лічбавыя адбіткі пальцаў, якія могуць быць скарыстаны, каб вызначыць магчымыя крадзяжы змесціва праз некаторыя пошукавыя сістэмы, таксама могуць быць дададзены. Убудова будзе шукаць з дапамогай пошукавых сістэм, якія ўключаюць RSS каналы ў іх выніках, а таксама ўключаць 10 найболей рэлевантныя вынікі. Больш падрабязную інфармацыю можна знайсці тут. Унікальны GUID будзе адлюстроўвацца тут кожны раз, калі старонка генеруецца. Скапіюйце яго ў адпаведнай вобласці электронных адбіткаў пальцаў ці выкарыстоўваць свае ўласныя лічбавыя адбіткі пальцаў. Examplekey:"
+
+#: copyfeed.php:547
+msgid "You can also choose to display comments and entries with related content. Careful! This content will be generated dynamically and may cause some feed services to show the post as new each time a comment is posted and/or when an entry with related content is shown"
+msgstr "Вы можаце таксама абраць для адлюстравання каментароў і запісаў з падобным утрыманнем. Асцярожна! Гэта інфармацыя будзе генеравацца дынамічна і можа выклікаць некаторыя кормы паслуг, каб паказаць пост новага кожны раз каментарах і / ці пры запісе з адпаведнымі ўтрыманне паказалі"
+
+#: copyfeed.php:549
+msgid "Uninstall options"
+msgstr "Налады выдалення"
+
+#: copyfeed.php:550
+msgid "This button deletes all options of the &copy;Feed plugin. Please use it <strong>before</strong> deactivating the plugin.<br /><strong>Attention: </strong>You cannot undo this!"
+msgstr "Гэта кнопка выдаляе ўсе опцыі канала &copy;Feed. Калі ласка, выкарыстоўвайце яго<strong>да</strong> адключэнні ўбудовы.<br /><strong>Увага: </strong>Гэта нельга адмяніць!"
+
+#: copyfeed.php:555
+msgid "Delete Options"
+msgstr "Выдаліць налады"
+
+#: copyfeed.php:560
+msgid "Further information: Visit the <a href='http://bueltge.de/wp-feed-plugin/204'>plugin homepage</a> for further information or to grab the latest version of this plugin."
+msgstr "Дадатковая інфармацыя: Наведаеце <a href='http://bueltge.de/wp-feed-plugin/204'>хатнюю старонку ўбудовы</a> Для атрымання дадатковай інфармацыі вазьміце апошнюю версію гэтай убудовы."
+
+#: copyfeed.php:560
+msgid "You want to thank me? Visit my <a href='http://bueltge.de/wunschliste'>wishlist</a>."
+msgstr "Вы жадаеце падзякаваць мяне? Наведаеце мой<a href='http://bueltge.de/wunschliste'>wishlist</a>."
+
+#: copyfeed.php:972
+msgid "Scan for the digital fingerprint find "
+msgstr "Сканаванне адбіткаў пальцаў "
+
+#: copyfeed.php:973
+msgid "Go to &copy;Feed-Search "
+msgstr "Перайсці да &copy;Feed-пошуку "
+
+#: copyfeed.php:973
+#: copyfeed.php:994
+msgid "Plagiarism"
+msgstr "Плагіят"
+
+#: copyfeed.php:1221
+msgid "The options have been saved!"
+msgstr "Налады захаваны!"
+
+#: copyfeed.php:1268
+msgid "The options have been deleted!"
+msgstr "Налады выдалены!"
+
+#: copyfeed.php:1289
+msgid " This feed is for personal, non-commercial use only. <br /> The use of this feed on other websites breaches copyright. If this content is not in your news reader, it makes the page you are viewing an infringement of the copyright. (Digital Fingerprint:"
+msgstr "Гэты канал прызначаны для асабістага некамерцыйнага выкарыстання.<br />Выкарыстанне гэтага канала на іншых сайтах, парушэнні аўтарскіх правоў. Калі гэта ўтрыманне не ў вашу праграму для чытання навін, ён робіць прагляданай старонкі парушэнне аўтарскіх правоў. (Лічбавых адбіткаў пальцаў:"
+
+#: copyfeed.php:1291
+msgid "Comments"
+msgstr "Каментары"
+
+#: copyfeed.php:1292
+msgid "writes"
+msgstr "напісана"
+
+#: copyfeed.php:1296
+msgid "Related posts:"
+msgstr "Падобныя пасты:"
+
